@@ -197,6 +197,8 @@ margin-right:-29px;
     position: absolute;
     width: 139px;
     top: 0px;
+    margin: 2px 81px 0px!important;
+    min-width: 134px;
     left: 0px;
     transform: translate3d(101px, -49px, 0px);
 }
